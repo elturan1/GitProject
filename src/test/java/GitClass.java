@@ -1,5 +1,5 @@
 public class GitClass {
-    /// comment
+    /// comme
     // comment  #2
 
 }
